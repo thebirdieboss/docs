@@ -18,7 +18,7 @@
   "topbarLinks": [
     {
       "name": "Support",
-      "url": "mailto:hi@mintlify.com"
+      "url": "mailto:support@askthebirdie.com"
     }
   ],
   "topbarCtaButton": {
@@ -84,8 +84,8 @@
     }
   ],
   "footerSocials": {
-    "x": "https://x.com/mintlify",
-    "github": "https://github.com/mintlify",
-    "linkedin": "https://linkedin.com/company/mintlify"
+    "x": "https://x.com/askthebirdie",
+    "github": "https://github.com/askthebirdie",
+    "linkedin": "https://linkedin.com/company/askthebirdie"
   }
 }
