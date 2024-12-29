@@ -63,7 +63,7 @@
         "features/homepage",
         "features/user-management",
         "features/leave-management",
-        "features/integrations",
+        "features/integrations"
       ]
     },
     {
