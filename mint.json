@@ -76,14 +76,14 @@
       "group": "Endpoint Examples",
       "pages": [
         "#",
-        "api-reference/endpoint/create",
-        "api-reference/endpoint/delete"
+        "#",
+        "#"
       ]
     }
   ],
   "footerSocials": {
-    "x": "https://x.com/askthebirdie",
-    "github": "https://github.com/askthebirdie",
+    "x": "#",
+    "github": "https://github.com/askthebirdieorg/askthebirdie",
     "linkedin": "https://linkedin.com/company/askthebirdie"
   },
   "api": {
