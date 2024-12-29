@@ -14,7 +14,14 @@
       "from": "#0D9373",
       "to": "#07C983"
     }
-  },
+  }
+  {
+  "api": {
+    "playground": {
+      "mode": "hide"
+    }
+  }
+},
   "topbarLinks": [
     {
       "name": "Support",
@@ -85,12 +92,5 @@
     "x": "https://x.com/askthebirdie",
     "github": "https://github.com/askthebirdie",
     "linkedin": "https://linkedin.com/company/askthebirdie"
-  }
-}
-{
-  "api": {
-    "playground": {
-      "mode": "hide"
-    }
   }
 }
