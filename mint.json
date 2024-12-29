@@ -85,5 +85,10 @@
     "x": "https://x.com/askthebirdie",
     "github": "https://github.com/askthebirdie",
     "linkedin": "https://linkedin.com/company/askthebirdie"
+  },
+  "api": {
+    "playground": {
+      "mode": "hide"
+    }
   }
 }
