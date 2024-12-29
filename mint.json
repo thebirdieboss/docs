@@ -43,9 +43,9 @@
       "url": "https://mintlify.com/community"
     },
     {
-      "name": "Blog",
+      "name": "Open Roadmap",
       "icon": "newspaper",
-      "url": "https://mintlify.com/blog"
+      "url": "https://askthebirdie.featurebase.app/roadmap"
     }
   ],
   "navigation": [
