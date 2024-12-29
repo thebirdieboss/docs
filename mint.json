@@ -58,14 +58,12 @@
       ]
     },
     {
-      "group": "Essentials",
+      "group": "Features",
       "pages": [
-        "essentials/markdown",
-        "essentials/code",
-        "essentials/images",
-        "essentials/settings",
-        "essentials/navigation",
-        "essentials/reusable-snippets"
+        "features/homepage",
+        "features/user-management",
+        "features/leave-management",
+        "features/integrations",
       ]
     },
     {
