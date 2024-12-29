@@ -14,14 +14,7 @@
       "from": "#0D9373",
       "to": "#07C983"
     }
-  }
-  {
-  "api": {
-    "playground": {
-      "mode": "hide"
-    }
-  }
-},
+  },
   "topbarLinks": [
     {
       "name": "Support",
