@@ -18,12 +18,12 @@
   "topbarLinks": [
     {
       "name": "Support",
-      "url": "mailto:support@askthebirdie.com"
+      "url": "mailto:support@thebirdie.app"
     }
   ],
   "topbarCtaButton": {
     "name": "Dashboard",
-    "url": "https://app.askthebirdie.com"
+    "url": "https://app.thebirdie.app"
   },
   "tabs": [
     {
@@ -35,7 +35,7 @@
     {
       "name": "Documentation",
       "icon": "book-open-cover",
-      "url": "https://docs.askthebirdie.com/"
+      "url": "https://docs.thebirdie.app/"
     },
     {
       "name": "Community",
@@ -45,7 +45,7 @@
     {
       "name": "Open Roadmap",
       "icon": "newspaper",
-      "url": "https://askthebirdie.featurebase.app/roadmap"
+      "url": "https://thebirdie.featurebase.app/roadmap"
     }
   ],
   "navigation": [
@@ -82,7 +82,7 @@
   ],
   "footerSocials": {
     "github": "https://github.com/askthebirdieorg/askthebirdie",
-    "linkedin": "https://linkedin.com/company/askthebirdie"
+    "linkedin": "https://linkedin.com/company/thebirdie"
   },
   "api": {
     "playground": {
