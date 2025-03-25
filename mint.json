@@ -32,6 +32,11 @@
       "icon": "book-open-cover",
       "url": "https://docs.thebirdie.app/"
     },
+        {
+      "name": "Community",
+      "icon": "slack",
+      "url": "#"
+    },
     {
       "name": "Open Roadmap",
       "icon": "newspaper",
