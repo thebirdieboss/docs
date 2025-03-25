@@ -33,11 +33,6 @@
       "url": "https://docs.thebirdie.app/"
     },
     {
-      "name": "Community",
-      "icon": "slack",
-      "url": "#"
-    },
-    {
       "name": "Open Roadmap",
       "icon": "newspaper",
       "url": "https://thebirdie.featurebase.app/roadmap"
